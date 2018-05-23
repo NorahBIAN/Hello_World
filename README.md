@@ -1,5 +1,5 @@
-#
-# 
+# B3 Training demos
+
 
 This is my first practice with python under the instruction of lab's senior.
 It is a project of B3 training for making some kind of thing like AR application.
