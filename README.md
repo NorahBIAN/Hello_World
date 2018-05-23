@@ -5,10 +5,10 @@ This is my first practice with python under the instruction of lab's senior.
 It is a project of B3 training for making some kind of thing like AR application.
 Not finished although.
 
-# CIRCUMSTANCE
+## CIRCUMSTANCE
   WINDOWS 10 64bits, Python 3.6, OpenCV 3
 
-# CONTENTS
+## CONTENTS
 
 # 1.setCamera.py
   
