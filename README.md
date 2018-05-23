@@ -23,5 +23,12 @@ Not finished although.
   It imports <generateChessBoard.py>.
   It is about how to detect the cross points of a image of chessboard with a function of
   OpenCV called cv2.findChessboardCorners.
+
+## 4.drawCircles.py
+
+  It is about detecting the cross points of chessboard in the camera view.
   
-4.
+## 5.warpByHomograpy.py
+
+  It is about warpping a certain image to a specified postion on a black background
+  (Of course the back can be anything, just give the coordination and will be fine)
