@@ -32,3 +32,7 @@ Not finished although.
 
   It is about warpping a certain image to a specified postion on a black background
   (Of course the back can be anything, just give the coordination and will be fine)
+  
+## 6.final.py
+
+  This is the final about the 2D warping a random pic onto a chessboard
