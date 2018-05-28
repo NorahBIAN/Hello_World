@@ -35,4 +35,5 @@ Not finished although.
   
 ## 6.final.py
 
-  This is the final about the 2D warping a random pic onto a chessboard
+  This is the final about the 2D warping a random pic onto a chessboard.
+  (It has been sometime since my work, so there may be some mistakes in this file.)
