@@ -8,7 +8,7 @@ Not finished although.
 ### CIRCUMSTANCE
   WINDOWS 10 64bits, Python 3.6, OpenCV 3
 
-### CONTENTS
+### CONTENTS1
 
 ## 1.setCamera.py
   
@@ -37,3 +37,17 @@ Not finished although.
 
   This is the final about the 2D warping a random pic onto a chessboard.
   (It has been sometime since my work, so there may be some mistakes in this file.)
+
+### CONTENTS2
+
+## 1.chessboardpic.py
+
+  In this part we generate a cube or axis on chessboard.
+  This file is meant for capturing pics of chessboard in real world and saving.
+  
+## 2.3dcalibration.py
+
+  In this file we can generate a cube on the chessboard, with the parameters from the camera,
+  and parameters of relationship between 3d and 2d.
+  More information referring to
+  https://docs.opencv.org/3.4/d9/db7/tutorial_py_table_of_contents_calib3d.html
